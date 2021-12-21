@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: LEMONMILK-Medium;
+    src: url(./LEMONMILK-Medium.otf);
+}
+*{
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    color: white;
+    margin-top: 3vw;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 3vw;
+}
+img{
+    width:15vw;
+    height: 10vw;
+    margin:1vw;
+}
+#bilder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 51vw;
+}
+html{
+    background-color: rgb(59, 59, 59);
+    font-family: LEMONMILK-Medium;
+}
